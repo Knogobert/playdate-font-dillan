@@ -1,13 +1,13 @@
 --metrics={"baseline":16,"xHeight":7,"capHeight":0,"pairs":{},"left":[],"right":[]}
 tracking=1
 
-space	13
+space	8
 �	13
 ~	12
-L	14
+L	13
 l	8
 i	6
-I	9
+I	8
 T	16
 t	9
 H	16
@@ -34,16 +34,16 @@ d	13
 j	7
 f	8
 v	13
-w	22
+w	23
 x	12
 y	13
 z	10
 Z	17
-r	10
+r	11
 n	14
 m	22
 p	13
-q	22
+q	13
 k	13
 a	13
 c	9
@@ -61,4 +61,13 @@ g	10
 )	7
 {	7
 }	8
+A	15
+B	13
+C	14
+D	14
+E	13
+F	13
+G	15
+J	12
+K	17
 
