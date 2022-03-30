@@ -4,7 +4,7 @@ A playdate font heavily inspired by [Cooper Black](https://en.wikipedia.org/wiki
 ## Current support 
 ![Font-preview](/dillan-preview.png)
 
-![Font-sample](/Dillan-table-24-22.png)
+![Font-sample](/Dillan-table-30-22.png)
 
 ## Usage
 WIP
