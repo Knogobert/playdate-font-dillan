@@ -18,7 +18,7 @@ WIP
 
 ## TODO
 - [x] Support for all basic latin glyphs
-- [ ] Kerning pairs
+- [x] Basic kerning pairs
 - [ ] Usage readme
 - [ ] Versioning
 - [ ] Outlined typeface
@@ -26,6 +26,7 @@ WIP
 - [ ] Support for diacritics (latin supplement)
 - [ ] Support for all basic math symbols
 - [ ] Support for playdate button icons
+- [ ] Toit kerning pairs
 
 ## Tools used
 
